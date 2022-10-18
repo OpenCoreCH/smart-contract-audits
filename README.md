@@ -7,7 +7,8 @@ My findings of some selected [Code4rena](https://code4rena.com/) contests I part
 - [Rigor](https://code4rena.com/reports/2022-08-rigor) (rank 1 / 132): [Findings](reports/c4/rigor.md)
 - [Foundation](https://code4rena.com/reports/2022-08-foundation) (rank 1 / 108): [Findings](reports/c4/foundation.md)
 - [Yieldy](https://code4rena.com/reports/2022-06-yieldy) (rank 1 / 99): [Findings](reports/c4/yieldy.md)
-- Mimo Defi (rank 2 / 69): Findings not public yet
+- [Mimo Defi](https://code4rena.com/reports/2022-08-mimo) (rank 2 / 69): [Findings](reports/c4/mimo.md)
+- Party DAO (rank 1 / 110): Findings not public yet
 - [Nouns DAO](https://code4rena.com/reports/2022-08-nounsdao) (rank 3 / 160): [Findings](reports/c4/nouns.md)
 - [Axelar Network](https://code4rena.com/reports/2022-07-axelar) (rank 4 / 75): [Findings](reports/c4/axelar.md)
 - Olympus Bophades (rank 5 / 147): Findings not public yet
