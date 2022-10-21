@@ -9,9 +9,14 @@ My findings of some selected [Code4rena](https://code4rena.com/) contests I part
 - [Yieldy](https://code4rena.com/reports/2022-06-yieldy) (rank 1 / 99): [Findings](reports/c4/yieldy.md)
 - Party DAO (rank 1 / 110): Findings not public yet
 - [Mimo Defi](https://code4rena.com/reports/2022-08-mimo) (rank 2 / 69): [Findings](reports/c4/mimo.md)
+- Frax (rank 2 / 120): Findings not public yet
 - [Nouns DAO](https://code4rena.com/reports/2022-08-nounsdao) (rank 3 / 160): [Findings](reports/c4/nouns.md)
+- Frax Ether Liquid Staking (rank 3 / 133): Findings not public yet
 - [Axelar Network](https://code4rena.com/reports/2022-07-axelar) (rank 4 / 75): [Findings](reports/c4/axelar.md)
 - Olympus Bophades (rank 5 / 147): Findings not public yet
 - [Juicebox](https://code4rena.com/reports/2022-07-juicebox) (rank 5 / 105): [Findings](reports/c4/juicebox.md)
-- Canto v2 (rank 5 / 50): Findings not public yet
+- [Canto v2](https://code4rena.com/reports/2022-06-canto-v2) (rank 5 / 50): [Findings](reports/c4/canto2.md)
 - [Nibbl](https://code4rena.com/reports/2022-06-nibbl) (rank 7 / 96): [Findings](reports/c4/nibbl.md)
+
+## Solo Audits
+- [LimitRanger](https://github.com/LimitRangerOrg/contract): [Report](reports/solo/limitranger.pdf)
