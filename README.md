@@ -6,6 +6,7 @@ Collection of different smart contract security audits I performed.
 - [Oases Crowdsale](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Oases%20Crowdsale.pdf)
 - [Violet Protocol](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Violet%20Protocol.pdf)
 - [Passage Protocol](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Passage%20Protocol.pdf)
+- [FreshCut Wallet](https://github.com/oak-security/audit-reports/blob/master/FreshCut/Audit%20Report%20-%20FreshCut%20Audit.pdf) (Penetration test of a mobile wallet using the Flutter SDK)
 - Multiple audits (insurance protocol, stablecoin, NFT marketplace, wallet, bridge upgrade) where the report is not yet released
 
 ## Code4rena
