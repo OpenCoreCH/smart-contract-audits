@@ -16,7 +16,7 @@ My findings of some selected [Code4rena](https://code4rena.com/) contests I part
 - [Rigor](https://code4rena.com/reports/2022-08-rigor) (rank 1 / 132): [Findings](reports/c4/rigor.md)
 - [Foundation](https://code4rena.com/reports/2022-08-foundation) (rank 1 / 108): [Findings](reports/c4/foundation.md)
 - [Yieldy](https://code4rena.com/reports/2022-06-yieldy) (rank 1 / 99): [Findings](reports/c4/yieldy.md)
-- [Party DAO](https://code4rena.com/reports/2022-09-party) (rank 1 / 110): [Findings](repoorts/c4/party.md)
+- [Party DAO](https://code4rena.com/reports/2022-09-party) (rank 1 / 110): [Findings](reports/c4/party.md)
 - [Mimo Defi](https://code4rena.com/reports/2022-08-mimo) (rank 2 / 69): [Findings](reports/c4/mimo.md)
 - Frax (rank 2 / 120): Findings not public yet
 - [Nouns DAO](https://code4rena.com/reports/2022-08-nounsdao) (rank 3 / 160): [Findings](reports/c4/nouns.md)
