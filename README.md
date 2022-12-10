@@ -19,10 +19,12 @@ My findings of some selected [Code4rena](https://code4rena.com/) contests I part
 - [Party DAO](https://code4rena.com/reports/2022-09-party) (rank 1 / 110): [Findings](reports/c4/party.md)
 - [Mimo Defi](https://code4rena.com/reports/2022-08-mimo) (rank 2 / 69): [Findings](reports/c4/mimo.md)
 - Frax (rank 2 / 120): Findings not public yet
+- Trader Joe (rank 2 / 75): Findings not public yet
 - [Nouns DAO](https://code4rena.com/reports/2022-08-nounsdao) (rank 3 / 160): [Findings](reports/c4/nouns.md)
 - [Frax Ether Liquid Staking](https://code4rena.com/reports/2022-09-frax) (rank 3 / 133): [Findings](reports/c4/frxeth.md)
 - Y2K Finance (rank 3 / 110): Findings not public yet
 - Holograph (rank 3 / 103): Findings not public yet
+- Juicebox (rank 3 / 66): Findings not public yet
 - [Axelar Network](https://code4rena.com/reports/2022-07-axelar) (rank 4 / 75): [Findings](reports/c4/axelar.md)
 - QuickSwap and StellaSwap (rank 4 / 113): Findings not public yet
 - [Olympus Bophades](https://code4rena.com/reports/2022-08-olympus) (rank 5 / 147): [Findings](reports/c4/olympus.md)
@@ -32,3 +34,4 @@ My findings of some selected [Code4rena](https://code4rena.com/) contests I part
 
 ## Solo Audits
 - [LimitRanger](https://github.com/LimitRangerOrg/contract): [Report](reports/solo/limitranger.pdf)
+- [Nibbl](https://nibbl.xyz/) Upgrade: [Report](reports/solo/nibbl.md)
