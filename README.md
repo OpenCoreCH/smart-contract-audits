@@ -35,3 +35,4 @@ My findings of some selected [Code4rena](https://code4rena.com/) contests I part
 ## Solo Audits
 - [LimitRanger](https://github.com/LimitRangerOrg/contract): [Report](reports/solo/limitranger.pdf)
 - [Nibbl](https://nibbl.xyz/) Upgrade: [Report](reports/solo/nibbl.md)
+- [Foundation](https://foundation.app/) Code4rena Solo Audit: [Report](https://code4rena.com/reports/2022-11-foundation)
